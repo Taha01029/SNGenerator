@@ -1,0 +1,1 @@
+invalid command$sng readme sample.$see sng --help for more information$
